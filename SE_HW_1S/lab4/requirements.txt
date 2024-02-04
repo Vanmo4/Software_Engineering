@@ -2,3 +2,4 @@ transformers
 pydantic
 sentencepiece
 torch
+sacremoses
